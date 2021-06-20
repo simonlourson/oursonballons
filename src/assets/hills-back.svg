@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="978"
+   height="326"
+   viewBox="0 0 258.7625 86.254169"
+   version="1.1"
+   id="svg5913"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="roll-hills-back.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5915"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="447.46769"
+     inkscape:cy="252.45822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2248"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5910" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#c0eab0;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,66.939583 V 86.254167 H 258.7625 V 66.939583 c -8.49333,0 -49.15069,-3.913736 -91.70236,-3.913736 -26.48031,0 -51.24649,8.546107 -70.815481,8.546107 -29.96901,0 -35.665915,-6.961776 -48.553229,-6.961776 -12.887314,0 -18.097864,2.329405 -47.69143,2.329405 z"
+       id="path6030"
+       sodipodi:nodetypes="ccccsszc" />
+  </g>
+</svg>

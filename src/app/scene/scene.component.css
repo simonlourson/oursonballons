@@ -1,0 +1,53 @@
+.bearloon {
+    position: absolute;
+    left: 10vh;
+    height: 50vh;
+    animation: bearloon infinite ease-in-out;
+    animation-duration: 8s;
+}
+
+@keyframes bearloon {
+    0%      {top: 5vh; }
+    50%     {top: 10vh; }
+    100%    {top: 5vh; }
+}
+
+.parallax {
+    width: 100vw;
+    height: 100vh;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.hills-back {
+    background: url("/assets/hills-back.svg");
+    background-size: auto 100%;
+
+    animation: parallax 45s infinite linear;
+}
+
+.hills-front {
+    background: url("/assets/hills-front.svg");
+    background-size: auto 100%;
+
+    animation: parallax 15s infinite linear;
+}
+
+.clouds {
+    background: url("/assets/clouds.svg");
+    background-size: auto 100%;
+
+    animation: parallax 100s infinite linear;
+}
+
+.sky {
+    background: url("/assets/sky.svg");
+    background-size: auto 100%;
+}
+
+@keyframes parallax {
+    0%      {background-position: 0 0; }
+    100%    {background-position: -300vh 0; }
+}
