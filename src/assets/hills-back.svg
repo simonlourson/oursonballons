@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5913"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="roll-hills-back.svg"
+   sodipodi:docname="hills-back.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
-     inkscape:zoom="0.94867184"
-     inkscape:cx="447.46769"
-     inkscape:cy="252.45822"
+     inkscape:zoom="1.8973437"
+     inkscape:cx="387.12017"
+     inkscape:cy="265.37101"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="2248"
@@ -34,15 +34,29 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs5910" />
+     id="defs5910">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1919"
+       x="-0.0065331504"
+       y="-0.073523181"
+       width="1.0130663"
+       height="1.1470464">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.71159164"
+         id="feGaussianBlur1921" />
+    </filter>
+  </defs>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#c0eab0;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0,66.939583 V 86.254167 H 258.7625 V 66.939583 c -8.49333,0 -49.15069,-3.913736 -91.70236,-3.913736 -26.48031,0 -51.24649,8.546107 -70.815481,8.546107 -29.96901,0 -35.665915,-6.961776 -48.553229,-6.961776 -12.887314,0 -18.097864,2.329405 -47.69143,2.329405 z"
-       id="path6030"
+       style="fill:#c0eab0;fill-opacity:1;stroke:none;stroke-width:0.265932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1919)"
+       d="M -1.3229167,66.939583 V 86.254167 H 260.08542 V 66.939583 c -8.58018,0 -49.65326,-3.913736 -92.64001,-3.913736 -26.75107,0 -51.77048,8.546107 -71.539574,8.546107 -30.275441,0 -36.030596,-6.961776 -49.049682,-6.961776 -13.019086,0 -18.282913,2.329405 -48.1790707,2.329405 z"
+       id="path6030-3"
        sodipodi:nodetypes="ccccsszc" />
   </g>
 </svg>
